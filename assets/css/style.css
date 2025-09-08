@@ -1,5 +1,6 @@
 body{
     margin: 0;
+   
 }
 
 
@@ -19,8 +20,18 @@ header{
     margin-left: 22px;
 }
 
-
 main{
-    margin-left: 100px;
+    margin-left: 155px;
+    margin-right: 300px;
 }
 
+h1{
+    margin-bottom: 6px;
+}
+
+#boolean{
+    color: #2bade6;
+}
+span{
+    color: #2bade6;
+}
