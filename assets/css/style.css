@@ -61,8 +61,50 @@ p{
     margin-left: 40px;
 }
 
+
 ul{
     margin-left: 20px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.w-25{
+    width:25%;
+    background-color:#1fa9e5;
+    color: white;
+    
+}
+.w-50{
+    width:50%;
+    background-color: #1fa9e5;
+    color:white
+}
+
+.monitor1{
+    
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    margin-left: 140px;
+    color: white;
+    font-size: 30px;
+}
+
+h3{
+    margin-left: 140px;
+    color:grey;
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height:200px;
+    margin-left: 140px;
+    margin-top: 20px;
+    color: white;
+    font-size: 30px;
 }
 
 
