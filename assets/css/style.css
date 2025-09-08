@@ -21,17 +21,24 @@ header{
 }
 
 main{
-    margin-left: 155px;
-    margin-right: 300px;
+    margin-left: 150px;
+   
 }
 
 h1{
-    margin-bottom: 6px;
+    margin-bottom: 1px;
 }
 
 #boolean{
     color: #2bade6;
 }
-span{
+#boolean{
     color: #2bade6;
+}
+address{
+    color: grey;
+}
+
+#tim1{
+    margin-top: 17px;
 }
