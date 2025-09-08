@@ -1,6 +1,6 @@
 body{
     margin: 0;
-   
+    
 }
 
 
@@ -10,6 +10,7 @@ header{
     height: 115px;
     width: 100%;
     background-size:350px;
+    position:sticky;
   
    
 }
@@ -21,13 +22,14 @@ header{
 }
 
 main{
-   margin-left: 150px;
+   margin-left: 450px;
    
 }
 
 h1{
     margin-bottom: 1px;
     margin-left: 40px;
+    
 }
 
 
@@ -115,4 +117,8 @@ h3{
 
 #illum{
     background-color: yellow;
+}
+
+footer{
+    margin-left: 300px;
 }
